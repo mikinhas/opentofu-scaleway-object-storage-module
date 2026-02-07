@@ -1,0 +1,7 @@
+.envrc
+.terraform/
+.tofu/
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform.lock.hcl
